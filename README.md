@@ -36,7 +36,7 @@ This Python-based tool assesses the strength of a password based on various crit
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/tholumuzikhuboni/PRODIGY_CY_03.git
-   cd password-strength-assessment
+   cd PRODIGY_CY_03
 
 2. **Run the script**:
    ```bash
